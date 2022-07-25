@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "parcel": "^2.6.2"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "default": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://outofs@github.com/outofs/project-guess-my-number.git"
+  },
+  "author": "Olexandr Hirych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/outofs/project-guess-my-number/issues"
+  },
+  "homepage": "https://github.com/outofs/project-guess-my-number#readme",
+  "description": ""
+}
